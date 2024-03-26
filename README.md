@@ -1,4 +1,4 @@
-![image](https://github.com/aiswaryapoosarla/Weather_App-in-React/assets/114751281/0415a364-6bd5-4468-8705-135e66e8f0c9)
+![Screenshot 2024-03-26 181606](https://github.com/aiswaryapoosarla/Weather_App-in-React/assets/114751281/419cab1b-9323-4d82-a2ef-d6ab3d2ab1b8)
 
 # Getting Started with Create React App
 
